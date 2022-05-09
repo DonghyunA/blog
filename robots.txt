@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://looklikesomeone.com/blog/sitemap.xml
+Sitemap: https://blog.looklikesomeone.com/sitemap.xml
